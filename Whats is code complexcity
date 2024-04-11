@@ -2,3 +2,4 @@ When we talk about "code complexity," we're essentially discussing how complicat
 Code complexity can affect many aspects of software development, including readability, maintainability, and performance.
 Here are a few factors that contribute to code complexity:Size: The larger the codebase, the more complex it tends to be.
 Managing a large amount of code can become overwhelming, making it harder to understand and maintain.
+Nested Logic:
